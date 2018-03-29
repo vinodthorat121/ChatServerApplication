@@ -77,7 +77,7 @@ public class ClientCode extends javax.swing.JFrame
     public void removeUser(String info) 
     {
     		logger.info("CLIENT INFO : Removing User information");
-         ta_chat.append(info + " this is disconnected now.\n");
+         //ta_chat.append(info + " this is disconnected now.\n");
     }
     
     /**
